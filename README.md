@@ -8,19 +8,24 @@ In this project we will explore the relationship between various attributes of a
 The data is sourced from the following:
 
 2016 Taxi Cab Data for NYC
+
 https://data.cityofnewyork.us/dataset/2016-Yellow-Taxi-Trip-Data/uacg-pexx
 
 2016 Hourly Weather Data in NYC
+
 https://www.kaggle.com/meinertsen/new-york-city-taxi-trip-hourly-weather-data
 
-## Data Wrangling
+### Data Wrangling
 
-Since there is a lot of data and some hardware limitations, the data was merged and sampled in steps before the cleaning process.
+Since there is a lot of data and some hardware limitations, the data was merged and sampled in steps before the cleaning process.  Notebooks are included in the Data_Wrangling folder.
 
-## Data Analysis
+### Data Analysis
 
-Exploratory and statistical analysis was performed to look at interesting patterns and relationships within the data.  
+Exploratory and statistical analysis was performed to look at interesting patterns and relationships within the data.  Jupyter notebook is included in the Notebooks folder.
 
-## Machine Learning
+### Machine Learning
 
-Use supervised learning techniques to build a model that can predict the tip amount.  
+Use supervised learning techniques to build a model that can predict the tip amount.  Jupyter notebook is included in the Notebooks folder.
+
+
+
