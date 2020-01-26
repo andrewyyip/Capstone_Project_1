@@ -1,5 +1,4 @@
-# Capstone_Project_1
-Springboard-Career-Track-Capstone-Project
+# Capstone Project 1
 
 This is the first capstone project completed as part of the Springboard Data Science Career Track
 
